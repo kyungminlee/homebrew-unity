@@ -2,7 +2,7 @@ class Mkl < Formula
   desc "Intel Math Kernel Library"
   homepage "https://software.intel.com/en-us/intel-mkl"
   url "https://gist.githubusercontent.com/kyungminlee/6f1e34bc1da03838f085bdb3db114628/raw/211b76f4bf5f7a9e8e93ef0ccf4c9f20c9fa035f/empty"
-  version "11.0.1"
+  version "16.0.3"
   sha256 "32c4858e22cc2c967b42150fa550562a2c839c2cebcaab91cabdf6f4da020022"
 
   def install
